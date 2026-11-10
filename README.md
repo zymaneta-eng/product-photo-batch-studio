@@ -123,7 +123,13 @@ ruff check src tests
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots and system workflow previews will be linked here from the `/screenshots` folder).*
+![дашборд: перший екран](screenshots/02_dash1_overview.png)
+
+![документація API](screenshots/03_api_docs.png)
+
+![підсумок тестів](screenshots/01_tests.png)
+
+Усі скріншоти (7): [screenshots/](screenshots/README.md)
 
 
 ---
